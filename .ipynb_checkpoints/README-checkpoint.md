@@ -1,4 +1,3 @@
-%%writefile README.md
 
 # CrediWise — Loan Approval Prediction System
 
